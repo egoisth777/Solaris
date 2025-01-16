@@ -1,0 +1,104 @@
+# Zhen Ren
+Procedural Waves
+https://www.shadertoy.com/view/MdXyzX
+
+Screen Space reflection
+https://www.youtube.com/watch?v=K2rs7K4y_sY
+
+Volumetric Lighting
+https://www.shadertoy.com/view/WsfBDf
+https://www.alexandre-pestana.com/volumetric-lights/
+
+Gaussian Bilateral Filter
+https://people.csail.mit.edu/sparis/bf_course/slides08/03_definition_bf.pdf
+https://www.shadertoy.com/view/4dfGDH#
+
+Cascaded Shadow Mapping
+https://mynameismjp.wordpress.com/2013/09/10/shadow-maps/
+https://www.intel.com/content/dam/develop/external/us/en/documents/sampledistributionshadowmaps-siggraph2010-notes-181237.pdf
+https://alextardif.com/shadowmapping.html
+https://learnopengl.com/Guest-Articles/2021/CSM
+
+Ambient Occlusion
+https://0fps.net/2013/07/03/ambient-occlusion-for-minecraft-like-worlds/
+
+Tone Map
+https://64.github.io/tonemapping/
+
+Sky & Cloud
+https://blog.maximeheckel.com/posts/real-time-cloudscapes-with-volumetric-raymarching/
+https://iquilezles.org/articles/derivative/
+https://www.shadertoy.com/view/Ml2cWG
+https://www.shadertoy.com/view/4ttSWf
+https://www.scratchapixel.com/lessons/procedural-generation-virtual-worlds/simulating-sky/simulating-colors-of-the-sky.html
+https://shaderbits.com/blog/creating-volumetric-ray-marcher
+
+Shadow & Gbuffer
+https://saada2006.github.io/minecraft-shader-tutorials/part-2
+
+Render Order
+https://pastebin.com/aB5MJ7aN
+
+TBN Matrix
+https://wiki.shaderlabs.org/wiki/Shader_Tricks
+
+Frustum-Culling
+https://learnopengl.com/Guest-Articles/2021/Scene/Frustum-Culling
+
+#Jiangxu Xing
+2023/11/03 15:03
+QT Cursor set position
+https://doc.qt.io/qt-6/qcursor.html#setPos-1
+
+2023/11/03 15:41
+QT Time
+https://doc.qt.io/qt-6/qdatetime.html#currentMSecsSinceEpoch
+
+2023/11/04 20:48
+Minecraft Grid Matching
+https://docs.google.com/presentation/d/14NNAPqnao8ZIswtfl6BVplf46lUZmQ-hBN7pErJ8OUk/edit#slide=id.g6b44c9ece6_8_
+
+2023/11/10/ 1:58
+Terrain Generation is fairly straight forward, along the way of implementation, I have referred to the following
+resources:
+* Course PPT for noise implementation on CPU
+* IQ's article on perturbed noises:
+http://iquilezles.org/www/articles/warp/warp.htm
+
+2023/11/14 20:12
+Thread-pool implementation in C++
+https://github.com/mtrebi/thread-pool
+https://stackoverflow.com/questions/26516683/reusing-thread-in-loop-c
+
+2023/11/21 14:42
+Frustum-Culling
+https://learnopengl.com/Guest-Articles/2021/Scene/Frustum-Culling
+
+Motion Blur
+https://lettier.github.io/3d-game-shaders-for-beginners/motion-blur.html
+
+2023/11/24 16:55
+ssao
+https://lettier.github.io/3d-game-shaders-for-beginners/ssao.html
+https://learnopengl.com/Advanced-Lighting/SSAO
+
+2023/11/28 21:35
+Bilateral Filter
+https://www.shadertoy.com/view/4dfGDH
+https://github.com/tranvansang/bilateral-filter
+https://people.csail.mit.edu/sparis/bf_course/slides/03_definition_bf.pdf
+
+2023/11/29 16:25
+Bloom
+https://lettier.github.io/3d-game-shaders-for-beginners/bloom.html
+
+Outlining
+https://lettier.github.io/3d-game-shaders-for-beginners/outlining.html
+
+
+2023/12/1
+Posterization
+https://lettier.github.io/3d-game-shaders-for-beginners/posterization.html
+
+Comicbook shader
+https://giedrejursenaite.portfoliobox.net/comicbookshader

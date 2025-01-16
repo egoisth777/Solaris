@@ -1,0 +1,39 @@
+<RCC>
+    <qresource prefix="/">
+        <file>glsl/lambert.frag.glsl</file>
+        <file>glsl/lambert.vert.glsl</file>
+        <file>glsl/flat.frag.glsl</file>
+        <file>glsl/flat.vert.glsl</file>
+        <file>glsl/instanced.vert.glsl</file>
+        <file>glsl/passthrough.vert.glsl</file>
+        <file>glsl/skyshader.frag.glsl</file>
+        <file>glsl/passthrough.frag.glsl</file>
+        <file>glsl/water.frag.glsl</file>
+        <file>glsl/upsampling.frag.glsl</file>
+        <file>glsl/lava.frag.glsl</file>
+        <file>glsl/lightdepth.vert.glsl</file>
+        <file>glsl/lightdepth.frag.glsl</file>
+        <file>glsl/shadowmap.vert.glsl</file>
+        <file>glsl/shadowmap.frag.glsl</file>
+        <file>glsl/debug.vert.glsl</file>
+        <file>glsl/debug.frag.glsl</file>
+        <file>glsl/motionBlur.frag.glsl</file>
+        <file>glsl/gBuffer.vert.glsl</file>
+        <file>glsl/gBuffer.frag.glsl</file>
+        <file>glsl/postSSAO.frag.glsl</file>
+        <file>glsl/composite.frag.glsl</file>
+        <file>glsl/postBilateralFilter.frag.glsl</file>
+        <file>glsl/postGaussianBlur.frag.glsl</file>
+        <file>glsl/volumelight.frag.glsl</file>
+        <file>glsl/postBloom.frag.glsl</file>
+        <file>glsl/postOutLine.frag.glsl</file>
+        <file>glsl/postPosterization.frag.glsl</file>
+        <file>glsl/postHatching.frag.glsl</file>
+        <file>glsl/postFog.frag.glsl</file>
+        <file>glsl/postVL.frag.glsl</file>
+        <file>glsl/watershader.vert.glsl</file>
+        <file>glsl/watershader.frag.glsl</file>
+        <file>glsl/postSky.frag.glsl</file>
+        <file>glsl/postFogIntensityMap.frag.glsl</file>
+    </qresource>
+</RCC>
