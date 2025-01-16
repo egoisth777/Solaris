@@ -1,6 +1,6 @@
 # mini-minecraft-optifine
 
-By **Zhen Ren, Yueyang Li, Jiangxu Xing**
+By **Yueyang Li, Renzhen, Jiangxu Xing"
 
 
 - [mini-minecraft-optifine](#mini-minecraft-optifine)
